@@ -54,3 +54,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+lang: "ru"
+# detach: true
+header_pages:
+    - library.md
+
+timezone: Europe/Moscow
