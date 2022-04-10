@@ -1,13 +1,23 @@
 ---
 ---
 $base-font-family: 'Merriweather', serif;
-$base-font-weight: 300;
-$strong-font-weight: 700;
+$base-font-weight: 300; // основной шрифт делаю полегче
+$strong-font-weight: 700; // а выделенный текст и заголовки помассивнее
+
 @import "minima";
+
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+
+
+// Для выделенного (жирного) текста на задавался вес; указываю его в
+// соответствии тем весом, который доступен в моём шрифте.
 strong {
     font-weight: $strong-font-weight;
 }
+
+// Заголовки не выделялись весом шрифта и использовали такое же межстрочное
+// расстояние 1.5, как и в основном тексте, а для шрифта большего размера это
+// некрасиво; исправляю:
 h1, h2, h3, h4, h5, h6 {
     font-weight: $strong-font-weight;
     line-height: 1.2;

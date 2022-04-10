@@ -2,5 +2,5 @@
 layout: page
 title: Библиотека
 ---
-[Что следует помнить о сверхзадачах?](./stretch_goals_paradox.html)
+[Что следует помнить о сверхзадачах?](./library/stretch_goals_paradox.html)
 
