@@ -5,4 +5,3 @@
 layout: home
 list_title: посты
 ---
-Привет, дурак!

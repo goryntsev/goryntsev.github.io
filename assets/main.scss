@@ -2,5 +2,13 @@
 ---
 $base-font-family: 'Merriweather', serif;
 $base-font-weight: 300;
+$strong-font-weight: 700;
 @import "minima";
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+strong {
+    font-weight: $strong-font-weight;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: $strong-font-weight;
+    line-height: 1.2;
+}
