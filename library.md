@@ -8,3 +8,5 @@ title: Библиотека
 
 [Почему Гагарин?](./library/why_gagarin.md)
 
+[Кодекс чести космонавтов первого отряда](./library/kosmonauts_code.md)
+
