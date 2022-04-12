@@ -6,3 +6,5 @@ title: Библиотека
 
 [Письмо Гагарина родным перед полётом в космос](./library/gagarin_letter.md)
 
+[Почему Гагарин?](./library/why_gagarin.md)
+
