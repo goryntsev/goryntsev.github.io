@@ -31,9 +31,7 @@ domain: goryntsev.github.io
 # github_username:  jekyll
 
 # Build settings
-theme: minima
 plugins:
-  # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -63,8 +61,14 @@ lang: "ru"
 
 # Структура меню в правом верхнем углу:
 header_pages:
-    - library.md
+    # - library.md
+    - catalogue.md
 
 # Не понимаю, где и как отражатся эта установка, но на всякий случай прописываю
 # её корректно:
 timezone: Europe/Moscow
+
+collections:
+     library:
+        output: true 
+                       
