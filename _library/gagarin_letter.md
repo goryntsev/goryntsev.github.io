@@ -4,9 +4,7 @@ layout: page
 ---
 *Космодром Байконур, 10 апреля 1961 года*
 
-<figure>
-    <img src="\assets\images\gagarin_family.jpg">
-</figure>
+<img src="\assets\images\gagarin_family.jpg" class="img-fluid">
 
 "Здравствуйте, мои милые, горячо любимые Валечка, Леночка и Галочка!
 

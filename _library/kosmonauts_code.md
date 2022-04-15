@@ -2,9 +2,7 @@
 title: Кодекс чести космонавтов первого отряда
 layout: page 
 ---
-<figure>
-    <img src="\assets\images\kosmonauts_first_squad.jpg">
-</figure>
+<img src="\assets\images\kosmonauts_first_squad.jpg" class="img-fluid">
 
 **ЧЕСТЬ ЗАКАЛЯЕТ МУЖЕСТВО И ОБЛАГОРАЖИВАЕТ ХРАБРОСТЬ**
 
