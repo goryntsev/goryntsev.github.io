@@ -71,4 +71,6 @@ timezone: Europe/Moscow
 collections:
      library:
         output: true 
-                       
+
+# Чтобы не собирать весь сайт, а только изменённые документы:
+# incremental: true                       
